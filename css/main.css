@@ -70,8 +70,8 @@ html {
 
  @media (prefers-color-scheme:dark) {
    .banner {
-     background-color:
-     color:
+     background-color: white;
+     color: black;
    }
  }
 /* stylelint-disable media-feature-name-no-unknown */
